@@ -3,6 +3,11 @@
 ##################################################
 objective: master version control, leave no trace
            (except beautiful commits)
+
 codename: m@n5r33
+
+
+
 status:   STANDBY
+clearance: LEVEL-5
 ##################################################
