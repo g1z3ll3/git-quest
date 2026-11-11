@@ -3,3 +3,4 @@
 agent: g1z3ll3
 codename: m@n5r33
 passphrase: h1st0ry-n3v3r-f0rg3ts
+gadget:  signgadget
